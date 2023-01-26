@@ -1,6 +1,10 @@
 # codec-comparisons
 This repo aims to accurately compare different codecs at the same bitrates. Currently it tests NVENC, QuickSync, and CPU encoding.
 
+
+<details><summary>5000 kbps Comparison</summary>
+<p>
+
 FFMPEG Settings: `-c:v h264_nvenc -b:v 5000k -maxrate 5001k -minrate 4999k -bufsize 5000k`
 
 Bitrate: 5000 kbps
@@ -18,3 +22,5 @@ Source video: https://mega.nz/file/SBBHWRjL#vl5kkj8WL0Yp26H_xA4QU0O3Flqg78C0EgjR
 | CPU H264  | ![CPU 5000 H264](https://user-images.githubusercontent.com/62084776/214811364-56dabe72-e9b0-4511-9781-934c8e0fb890.png) |
 | CPU HEVC  | ![CPU 5000 HEVC](https://user-images.githubusercontent.com/62084776/214811396-f5fc4a33-08d0-4186-864e-23d25ff8e792.png) |
 | CPU (SVT-AV1) AV1  | ![SVT-AV1 5000](https://user-images.githubusercontent.com/62084776/214811438-f0f01aa0-cf86-4f21-970c-38975e57a7e9.png) |
+</p>
+</details>

@@ -5,7 +5,7 @@ This repo aims to accurately compare different codecs at the same bitrates. Curr
 <details><summary>5000 kbps Comparison</summary>
 <p>
 
-FFMPEG Settings: `-c:v h264_nvenc -b:v 5000k -maxrate 5001k -minrate 4999k -bufsize 5000k`
+FFMPEG Settings: `-c:v h264_nvenc -b:v 5000k -maxrate 5001k -minrate 4999k -bufsize 5000k`, all other settings are at their defaults
 
 Bitrate: 5000 kbps
 

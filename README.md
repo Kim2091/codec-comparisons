@@ -18,8 +18,11 @@ Source video: https://mega.nz/file/SBBHWRjL#vl5kkj8WL0Yp26H_xA4QU0O3Flqg78C0EgjR
 | CPU | ![CPU 5000 H264](https://user-images.githubusercontent.com/62084776/214811364-56dabe72-e9b0-4511-9781-934c8e0fb890.png) | ![CPU 5000 HEVC](https://user-images.githubusercontent.com/62084776/214811396-f5fc4a33-08d0-4186-864e-23d25ff8e792.png) | ![SVT-AV1 5000](https://user-images.githubusercontent.com/62084776/214811438-f0f01aa0-cf86-4f21-970c-38975e57a7e9.png)
 
 Notes: 
+  
 `The CPU Result above is using SVT-AV1`
+  
 `Please ignore color differences, this is seemingly an issue with the source clip's color space`
+  
 `The NVENC AV1 result above is actually newer than the other results. It was re-done based on a newer version of FFMPEG`
 </p>
 </details>

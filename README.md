@@ -1,7 +1,7 @@
 # codec-comparisons
 This repo aims to accurately compare different codecs at the same bitrates. Currently it tests NVENC, QuickSync, and CPU encoding.
 
-FFMPEG Settings: `-c:v h264_nvenc -b:v 2500k -maxrate 2501k -minrate 2499k -bufsize 2500k`
+FFMPEG Settings: `-c:v h264_nvenc -b:v 5000k -maxrate 5001k -minrate 4999k -bufsize 5000k`
 
 Bitrate: 5000 kbps
 

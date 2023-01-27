@@ -21,9 +21,9 @@ Reference frame: [Reference](https://user-images.githubusercontent.com/62084776/
 | CPU | ![CPU 5000 H264](https://user-images.githubusercontent.com/62084776/214811364-56dabe72-e9b0-4511-9781-934c8e0fb890.png) | ![CPU 5000 HEVC](https://user-images.githubusercontent.com/62084776/214811396-f5fc4a33-08d0-4186-864e-23d25ff8e792.png) | ![SVT-AV1 5000](https://user-images.githubusercontent.com/62084776/214811438-f0f01aa0-cf86-4f21-970c-38975e57a7e9.png)
 | AMD | ![AMF H264 5000](https://user-images.githubusercontent.com/62084776/215026472-6aadb941-6ec3-4097-b96d-af3338f6db07.png) | ![AMF HEVC 5000](https://user-images.githubusercontent.com/62084776/215026483-215e7d54-f487-497e-915e-6412ab5cd7fc.png) | |
 
-`NVENC Results are from an RTX 4090`
+`NVENC Results are from an RTX 4090 (thanks vyls)`
 
-`QuickSync Results are from an A770`
+`QuickSync Results are from an A770 (thanks Envious)`
 
 `CPU Results are from a... CPU :)`
 

@@ -1,7 +1,7 @@
 This subsection focuses on testing codecs under ideal circumstances with manually tuned settings
 
-<details><summary>5000 kbps Comparison</summary>
-<p>
+## 5000 kbps Comparison
+
 
 FFMPEG Settings: complex
 
